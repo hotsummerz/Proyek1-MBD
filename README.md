@@ -1,8 +1,8 @@
 
 # Ujian Kontainerisasi Database
-Nama    : Keira Arina Khalisha
-NIM     : 1247050056
-Kelas   : IF B
+**Nama  :** Keira Arina Khalisha<br>
+**NIM   :** 1247050056<br>
+**Kelas :** IF B
 
 ## Deskripsi
 Proyek ini menggunakan Docker Compose untuk menjalankan
